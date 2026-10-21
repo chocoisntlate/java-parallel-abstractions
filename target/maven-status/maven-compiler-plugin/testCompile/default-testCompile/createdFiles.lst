@@ -1,0 +1,4 @@
+abstractions/allpairs/editdistance/EditDistanceTest.class
+abstractions/allpairs/nbody/NBodyTest.class
+abstractions/branchandbound/knapsack/KnapsackTest.class
+abstractions/branchandbound/tsp/TspTest.class
