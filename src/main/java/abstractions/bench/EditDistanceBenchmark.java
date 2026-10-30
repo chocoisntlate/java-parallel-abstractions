@@ -30,7 +30,7 @@ public class EditDistanceBenchmark {
     }
 
     @Benchmark
-    public int run() {
+    public int[][] run() {
         return impl.solve(input, threads);
     }
 }

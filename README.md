@@ -4,7 +4,7 @@ Evaluates Java concurrency abstractions on two parallel programming patterns: **
 
 | Pattern          | Algorithms                       |
 |------------------|----------------------------------|
-| All pairs        | N-body, Edit distance            |
+| All pairs        | N-body, Edit distance (all pairs of strings) |
 | Branch and bound | 0/1 knapsack, Traveling salesman |
 
 Each algorithm is implemented with four abstractions:

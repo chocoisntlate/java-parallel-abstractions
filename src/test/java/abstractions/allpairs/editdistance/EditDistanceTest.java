@@ -9,6 +9,6 @@ class EditDistanceTest {
     @Disabled("TODO")
     void allImplementationsMatchSequential() {
         // TODO: generate an input with Config.SEED, run EditDistanceSequential,
-        //  and assert every other implementation returns the same result.
+        //  and assert every other implementation returns the same matrix (assertArrayEquals).
     }
 }
